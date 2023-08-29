@@ -1,0 +1,3 @@
+Title: Instant Dictionary Web App
+Description: A web app that lets users type in a terms  in a text box and returns the English definition
+             of that term instantly as soon as he user has finished typing.
